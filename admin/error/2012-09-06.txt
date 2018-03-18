@@ -1,0 +1,20 @@
+错误SQL语句：
+DELETE FROM `p_newsclass` WHERE `id` = '44' LIMIT 1;
+客户IP:127.0.0.1
+时间 :2012-09-06 03:30:35
+
+错误SQL语句：
+DELETE FROM `p_newsclass` WHERE `id` = '44' LIMIT 1;
+客户IP:127.0.0.1
+时间 :2012-09-06 03:30:44
+
+错误SQL语句：
+DELETE FROM `p_newsclass` WHERE `id` = '46' LIMIT 1;
+客户IP:127.0.0.1
+时间 :2012-09-06 03:38:12
+
+错误SQL语句：
+DELETE FROM `p_newsclass` WHERE `id` = '45' LIMIT 1;
+客户IP:127.0.0.1
+时间 :2012-09-06 03:39:20
+

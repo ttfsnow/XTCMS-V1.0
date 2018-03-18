@@ -1,0 +1,365 @@
+错误SQL语句：
+SELECT * FROM p_admin  Where `username` = 'adin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:14:56
+
+错误SQL语句：
+SELECT * FROM p_admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:15:04
+
+错误SQL语句：
+SELECT * FROM p_admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:15:24
+
+错误SQL语句：
+SELECT * FROM .$tb_prefix.admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:19:43
+
+错误SQL语句：
+SELECT * FROM .$tb_prefix.admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:22:11
+
+错误SQL语句：
+SELECT * FROM ."$tb_prefix".admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:22:45
+
+错误SQL语句：
+SELECT * FROM ."$tb_prefix".admin  Where `username` = '问我'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:22:50
+
+错误SQL语句：
+SELECT * FROM ."$tb_prefix".admin  Where `username` = '额为'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:22:54
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = 'admin'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:24:02
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '1111'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:24:07
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '111'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:24:11
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '111'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:24:15
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '萨芬'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:29:23
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '放电'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:29:28
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:43:14
+
+错误SQL语句：
+SELECT * FROM ".$tb_prefix."admin  Where `username` = '啊啊'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:53:02
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:54:41
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:54:46
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:54:51
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:54:56
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:00
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:04
+
+错误SQL语句：
+SELECT * FROM \".$tb_prefix.\"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:09
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:42
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:46
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:55:51
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:56:12
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:56:17
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:57:27
+
+错误SQL语句：
+SELECT * FROM "$tb_prefix"admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:57:36
+
+错误SQL语句：
+SELECT * FROM `".$tb_prefix."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:06
+
+错误SQL语句：
+SELECT * FROM `".$tb_prefix."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:10
+
+错误SQL语句：
+SELECT * FROM `".$tb_prefix."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:14
+
+错误SQL语句：
+SELECT * FROM `".$tb_prefix."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:19
+
+错误SQL语句：
+SELECT * FROM `".$tb_prefix."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:23
+
+错误SQL语句：
+SELECT * FROM `"$tb_prefix"admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:53
+
+错误SQL语句：
+SELECT * FROM `"$tb_prefix"admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:58:57
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:59:33
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 02:59:38
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:00:28
+
+错误SQL语句：
+SELECT * FROM `"".admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:01:57
+
+错误SQL语句：
+SELECT * FROM `"".admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:02:01
+
+错误SQL语句：
+SELECT * FROM `"".admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:02:05
+
+错误SQL语句：
+SELECT * FROM `".."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:02:34
+
+错误SQL语句：
+SELECT * FROM `".."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:02:39
+
+错误SQL语句：
+SELECT * FROM `".."admin`  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:04:01
+
+错误SQL语句：
+SELECT * FROM `".."admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:04:05
+
+错误SQL语句：
+SELECT * FROM `""admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:04:36
+
+错误SQL语句：
+SELECT * FROM `""admin`  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:04:59
+
+错误SQL语句：
+SELECT * FROM .admin  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:05:50
+
+错误SQL语句：
+SELECT * FROM $this->tb_prefixadmin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:07:28
+
+错误SQL语句：
+SELECT * FROM $this->tb_prefixadmin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:07:32
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:23
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:27
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:31
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:35
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:39
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:45
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '4343'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:52
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '4343'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:08:56
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '4343'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:09:00
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '4343'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:09:04
+
+错误SQL语句：
+SELECT * FROM "admin"  Where `username` = '热热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:11:28
+
+错误SQL语句：
+SELECT * FROM "admin"  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:11:33
+
+错误SQL语句：
+SELECT * FROM "admin"  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:11:37
+
+错误SQL语句：
+SELECT * FROM ""  Where `username` = '额为'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:13:06
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '突然'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:13:34
+
+错误SQL语句：
+SELECT * FROM admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:14:59
+
+错误SQL语句：
+SELECT * FROM .admin  Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:15:20
+
+错误SQL语句：
+SELECT * FROM DT  Where `username` = 'RE'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:30:27
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:40:55
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:40:59
+
+错误SQL语句：
+SELECT * FROM   Where `username` = '热'
+客户IP:127.0.0.1
+时间 :2012-08-31 03:41:03
+

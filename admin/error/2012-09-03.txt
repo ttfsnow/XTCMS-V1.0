@@ -1,0 +1,100 @@
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2012-09-03 01:26:25
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2012-09-03 02:43:16
+
+错误SQL语句：
+SELECT * FROM CONFIG
+客户IP:127.0.0.1
+时间 :2012-09-03 02:43:31
+
+错误SQL语句：
+SELECT * FROM CONFIG
+客户IP:127.0.0.1
+时间 :2012-09-03 02:43:57
+
+错误SQL语句：
+update CONFIG set `values`="讯通网络淘宝旗舰店出品—XTCMS1.0" where `name`="websitename"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:21
+
+错误SQL语句：
+update CONFIG set `values`="www.sxnye.com" where `name`="website"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:21
+
+错误SQL语句：
+update CONFIG set `values`="ICP备10000号" where `name`="icp"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:21
+
+错误SQL语句：
+update CONFIG set `values`="这里是其他的说明" where `name`="other"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:21
+
+错误SQL语句：
+update CONFIG set `values`="讯通网络淘宝旗舰店出品—XTCMS1.0" where `name`="websitename"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:24
+
+错误SQL语句：
+update CONFIG set `values`="www.sxnye.com" where `name`="website"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:24
+
+错误SQL语句：
+update CONFIG set `values`="ICP备10000号" where `name`="icp"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:24
+
+错误SQL语句：
+update CONFIG set `values`="这里是其他的说明" where `name`="other"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:24
+
+错误SQL语句：
+update CONFIG set `values`="讯通网络淘宝旗舰店出品—XTCMS1.0" where `name`="websitename"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:28
+
+错误SQL语句：
+update CONFIG set `values`="www.sxnye.com" where `name`="website"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:28
+
+错误SQL语句：
+update CONFIG set `values`="ICP备10000号" where `name`="icp"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:28
+
+错误SQL语句：
+update CONFIG set `values`="这里是其他的说明" where `name`="other"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:28
+
+错误SQL语句：
+update "CONFIG" set `values`="讯通网络淘宝旗舰店出品—XTCMS1.0" where `name`="websitename"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:54
+
+错误SQL语句：
+update "CONFIG" set `values`="www.sxnye.com" where `name`="website"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:54
+
+错误SQL语句：
+update "CONFIG" set `values`="ICP备10000号" where `name`="icp"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:54
+
+错误SQL语句：
+update "CONFIG" set `values`="这里是其他的说明" where `name`="other"
+客户IP:127.0.0.1
+时间 :2012-09-03 02:53:54
+

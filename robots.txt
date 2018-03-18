@@ -1,0 +1,7 @@
+Disallow: /admin/
+Disallow: /config/ 
+Disallow: /editor/
+Disallow: /controllers/
+Disallow: /error/
+Disallow: /install/
+Disallow: /common/

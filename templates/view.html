@@ -1,0 +1,86 @@
+{include file="header.html"}
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </div>  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+
+	    
+        <div class="article">
+          <h2><a href="#">{$sm_content.title}</a></h2><div class="clr"></div>
+          <p>发布时间：{$sm_content.date_time}&nbsp;&nbsp;栏目： {$sm_content.cid}&nbsp;&nbsp;评论：<a href="#">0 Comments</a></p>
+          <p>{$sm_content.content}</p>
+          
+
+
+
+	
+
+	 
+
+
+<h3 id="respond">留下评论</h3>
+
+
+<form action="" method="post">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+<label for="author">名字(required)</label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email">邮箱(required)</label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url">网站</label></p>
+
+
+
+
+<p><textarea name="comment" id="comment" cols="70" rows="5" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="提交评论" />
+<input type="hidden" name="" value="12" />
+</p>
+
+
+</form>
+
+
+        </div>
+	      </div>
+
+      <div class="sidebar">
+	<div class="widget"><form role="search" method="get" id="searchform" action="http://localhost/epp3/lianxi2/wordpress/" >
+	<div><label class="screen-reader-text" for="s"></label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="搜索" />
+	</div>
+	</form></div>		<div class="widget">		<h2>相关文章</h2>		<ul>
+				 {section name=l loop=$sm_list}{*遍历二位数组，数组内容为新闻id和新闻标题*}
+				<li><a href="view.php?id={$sm_list[l].id}" title="{$sm_list[l].title}">{$sm_list[l].title}</a></li>
+				{/section}
+				</ul>
+		</div><div class="widget"><h2>近期评论</h2><ul id="recentcomments"><li class="recentcomments"><a href='http://wordpress.org/' rel='external nofollow' class='url'>评论xxx人</a> 发表在《<a href="#">评论文章标题</a>》</li></ul></div>
+			 
+		</ul>
+</div>
+
+<div class="widget"><h2>功能</h2>			<ul>
+						<li><a href="#">登录</a></li>
+			<li><a href="#" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="#" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="#" title=" ">XTCMS V1.0</a></li>
+						</ul>
+</div>
+	<div class="widget">
+	<h2>热情读者</h2>
+	<ul class="reader">
+	<li class="mostactive"><a><img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=40' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></li>	</ul>
+	</div>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+ {include file="footer.html"}

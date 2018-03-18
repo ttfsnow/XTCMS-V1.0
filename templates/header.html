@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>{$sm_config[0]}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="{$template_dir}css/style.css" media="screen" title="style (screen)" />
+<script type="text/javascript" src="{$template_dir}js/arial.jsarial.js"></script>
+<script type="text/javascript" src="{$template_dir}js/arial.jscuf_run.js"></script>
+<script type="text/javascript" src="{$template_dir}js/arial.jsjquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="{$template_dir}js/arial.jsradius.js"></script>
+ 
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"><h1><a href="/"><img src="{$template_dir}images/ijtbaA.png" /></a><small>&nbsp;&nbsp;&nbsp;这是一个使用XTCMS V1.0做的一个博客哦</small></h1></div>
+      <div class="menu_nav">
+	<ul>
+	<li class="current-cat"><a title="Home" href="/">博客主页</a></li>
+	{section name=class loop=$sm_class} {*遍历二位数组，数组内容为分类id和分类名称*}
+		<li class="cat-item cat-item-3"><a href="list.php?id={$sm_class[class].id}" >{$sm_class[class].name}</a></li>
+	{/section}
+	 
+	</ul>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div> 
+  

@@ -1,0 +1,47 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>相册集</span></h2>
+        <a href="#"><img src="{$template_dir}images/pix1.jpg" width="58" height="58" alt="pix" /></a>
+        <a href="#"><img src="{$template_dir}images/pix2.jpg" width="58" height="58" alt="pix" /></a>
+        <a href="#"><img src="{$template_dir}images/pix3.jpg" width="58" height="58" alt="pix" /></a>
+        <a href="#"><img src="{$template_dir}images/pix4.jpg" width="58" height="58" alt="pix" /></a>
+        <a href="#"><img src="{$template_dir}images/pix5.jpg" width="58" height="58" alt="pix" /></a>
+        <a href="#"><img src="{$template_dir}images/pix6.jpg" width="58" height="58" alt="pix" /></a>
+      </div>
+      <div class="col c2">
+        <h2><span>关于我们</span></h2>
+        <p>讯通网络传媒是一家专业从事平面设计，网站开发，软件开发，网络营销的机构。开淘宝店的目的主要是和广大用户一起分享一些好的作品。我们的工程师会无私的奉献出自己的技术和在工作中的经验，使不同的人群都能迅速的掌握网络方面的技术，我们坚持“授人以鱼”不如“授人以渔”的经营理念，将不断推出新的更具挑战性的逻辑理念，让每个人都成为网络达人。
+      </div>
+      <div class="col c3">
+        <h2><span>联系我</span></h2>
+        <p>地址：山东省威海市高技术产业开发区</p>
+        <p><a href="mailto:xiyou-lw@163.com">Email：xiyou-lw@163.com</a></p>
+	<p><a href="#">QQ：523586338</a></p>
+        <p>2012--- 讯通网络传媒  ---XTCMS v1.0</p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  
+<div class="footer">
+    <div class="footer_resize">
+      <p class="lf">讯通网络淘宝旗舰店--XTCMS V1.0 &copy; Copyright <a href="/">个人微博系统</a></p>
+      <ul class="fmenu">
+      {section name=class loop=$sm_class} {*遍历二位数组，数组内容为分类id和分类名称*}
+        	<li class="cat-item cat-item-3"><a href="list.php?id={$sm_class[class].id}" >{$sm_class[class].name}</a>
+ </li>
+	 {/section}
+				 
+				<li><a href="/sitemap.xml" title="seo sitemap" target="_blank">网站地图</a></li>
+      </ul>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',
+      date_time='1347066341',keyword=技术文 ,content=技术文章  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:05:41
+
+错误SQL语句：
+update `xt_newscontent` set title='随笔感悟1', author='讯通网络',
+      date_time='1347066350',keyword=,content=佛挡杀佛松岛枫松岛枫随碟附送的丰盛的佛顶山丰盛的丰盛的  where id='4'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:05:50
+
+错误SQL语句：
+update `xt_newscontent` set title='我的转载', author='讯通网络',
+      date_time='1347066354',keyword=,content=热热色弱色人生额  where id='5'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:05:54
+
+错误SQL语句：
+update `xt_newscontent` set title='设计作品1', author='松岛枫',
+      date_time='1347066358',keyword=,content=放大沙发松岛枫随风倒是的发生地方  where id='6'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:05:58
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066536',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:08:56
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066552',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:12
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066574',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:34
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066578',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:38
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066582',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:42
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066588',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:48
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066596',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:09:56
+
+错误SQL语句：
+update `xt_newscontent` set title='随笔感悟1', author='讯通网络',date_time='1347066601',keyword=,content=佛挡杀佛松岛枫松岛枫随碟附送的丰盛的佛顶山丰盛的丰盛的  where id='4'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:10:01
+
+错误SQL语句：
+update `xt_newscontent` set title='随笔感悟1', author='讯通网络',date_time='1347066606',keyword=,content=佛挡杀佛松岛枫松岛枫随碟附送的丰盛的佛顶山丰盛的丰盛的  where id='4'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:10:06
+
+错误SQL语句：
+update `xt_newscontent` set title='随笔感悟1', author='讯通网络',date_time='1347066621',keyword=,content=佛挡杀佛松岛枫松岛枫随碟附送的丰盛的佛顶山丰盛的丰盛的  where id='4'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:10:21
+
+错误SQL语句：
+update `xt_newscontent` set title='技术文章测试1', author='讯通网络',date_time='1347066687',keyword=技术文章,content=技术文章内容区  where id='2'
+客户IP:127.0.0.1
+时间 :2012-09-08 01:11:27
+

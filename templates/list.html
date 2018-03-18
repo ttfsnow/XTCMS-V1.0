@@ -1,0 +1,61 @@
+{include file="header.html"}
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+
+	
+	 {section name=c loop=$sm_content}{*遍历二位数组，数组内容为新闻id和新闻标题,内容等*}
+        <div class="article">
+          <h2><a href="view.php?id={$sm_content[c].id}" title="{$sm_content[c].title}">  {$sm_content[c].title}  </a></h2><div class="clr"></div>
+          <p>发布时间：{$sm_content[c].date_time}&nbsp;&nbsp;栏目：{$sm_content[c].cid}&nbsp;&nbsp;评论：<a href="#" title="">0 Comments</a></p>
+          <p>{$sm_content[c].content}
+</p>
+        </div>
+       {/section}
+       <p align=right>    
+        {$pagenav}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+       
+		<p class="pages"></p>
+      </div>
+
+      <div class="sidebar">
+	<div class="widget"><form role="search" method="get" id="searchform" action="http://localhost/epp3/lianxi2/wordpress/" >
+	<div><label class="screen-reader-text" for="s"></label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="搜索" />
+	</div>
+	</form></div>		<div class="widget">		<h2>近期文章</h2>		<ul>
+				 {section name=l loop=$sm_list}{*遍历二位数组，数组内容为新闻id和新闻标题*}
+				<li><a href="view.php?id={$sm_list[l].id}" title="{$sm_list[l].title}">{$sm_list[l].title}</a></li>
+				{/section}
+				</ul>
+		</div><div class="widget"><h2>近期评论</h2><ul id="recentcomments"><li class="recentcomments"><a href='http://wordpress.org/' rel='external nofollow' class='url'>评论xxx人</a> 发表在《<a href="#">评论文章标题</a>》</li></ul></div>
+			 
+		</ul>
+</div><div class="widget"><h2>分类目录</h2>		<ul>
+	 
+	{section name=class loop=$sm_class_son} {*遍历二位数组，数组内容为分类id和分类名称*}
+	<li class="cat-item cat-item-1"><a href="list.php?id={$sm_class_son[class].id}" >{$sm_class_son[class].name}</a></li>
+	{/section}
+		</ul>
+</div><div class="widget"><h2>功能</h2>			<ul>
+						<li><a href="#">登录</a></li>
+			<li><a href="#" title="使用 RSS 2.0 订阅本站点内容">文章 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="#" title="使用 RSS 订阅本站点的所有文章的近期评论">评论 <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="#" title=" ">XTCMS V1.0</a></li>
+						</ul>
+</div>
+	<div class="widget">
+	<h2>热情读者</h2>
+	<ul class="reader">
+	<li class="mostactive"><a ><img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=40' class='avatar avatar-40 photo avatar-default' height='40' width='40' /></a></li>	</ul>
+	</div>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  {include file="footer.html"}

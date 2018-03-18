@@ -1,0 +1,80 @@
+错误SQL语句：
+INSERT INTO `p_newsbase` (`id`, `cid`, `title`, `author`, `date_time`) VALUES (NULL, '', '', '', '1346981799')
+客户IP:127.0.0.1
+时间 :2012-09-07 01:36:39
+
+错误SQL语句：
+INSERT INTO `p_newscontent` (`nid`, `keywrod`, `content`, `remark`) VALUES (0, '', '', '')
+客户IP:127.0.0.1
+时间 :2012-09-07 01:36:39
+
+错误SQL语句：
+INSERT INTO `xt_newsbase` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '技术文章1测试标题', '讯通网络', '1346983371','技术文章','这里是技术文章的内容')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:02:51
+
+错误SQL语句：
+INSERT INTO `xt_newscontent` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '', '', '1346983432','','')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:03:52
+
+错误SQL语句：
+INSERT INTO `xt_newscontent` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '', '', '1346983435','','')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:03:55
+
+错误SQL语句：
+INSERT INTO `xt_newscontent` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '', '', '1346983438','','')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:03:58
+
+错误SQL语句：
+INSERT INTO `xt_newscontent` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '', '', '1346983441','','')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:04:01
+
+错误SQL语句：
+INSERT INTO `xt_newscontent` (`id`, `cid`, `title`, `author`, `date_time`,`keyword`,`content`) VALUES (NULL, '', '', '', '1346983445','','')
+客户IP:127.0.0.1
+时间 :2012-09-07 02:04:05
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2012-09-07 02:33:29
+
+错误SQL语句：
+SELECT * FROM p_newsbase limit  0, 20
+客户IP:127.0.0.1
+时间 :2012-09-07 02:33:29
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2012-09-07 02:33:37
+
+错误SQL语句：
+SELECT * FROM p_newsbase limit  0, 20
+客户IP:127.0.0.1
+时间 :2012-09-07 02:33:37
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2012-09-07 03:01:02
+
+错误SQL语句：
+SELECT * FROM ".xt_."newscontent limit  0, 20
+客户IP:127.0.0.1
+时间 :2012-09-07 03:01:02
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2012-09-07 03:02:58
+
+错误SQL语句：
+SELECT * FROM p_newsclass
+客户IP:127.0.0.1
+时间 :2012-09-07 03:03:28
+
