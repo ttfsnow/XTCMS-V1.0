@@ -8,3 +8,14 @@
 * 可用于个人轻量级博客
 * 用于PHP初学者的学习
 ## 界面预览：
+#### 前台页面酷似wordpress
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/1.png)
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/2.png)
+#### 简洁的后台操作界面:支持一键安装
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/3.jpg)
+#### 使用无限级分类
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/4.jpg)
+#### 使用在线编辑器，可完美实现图片，视频，文字格式及排版
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/5.jpg)
+#### 支持微博内容的增删改查
+![preview](https://github.com/ttfsnow/XTCMS-V1.0/raw/master/images/preview/6.jpg)
